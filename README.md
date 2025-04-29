@@ -22,6 +22,15 @@ You agree to use the App in compliance with all applicable laws and regulations.
 - You may not impersonate others or provide false information.
 - You may not use the App to promote illegal activities or violate the rights of others.
 
+### 2.3 Block feature
+- You may block other users who you do not want to interact with, after you block a user, this user will not be able to visit your profile and interact with event you created.
+- You may be blocked by other users due to improper behaviours
+
+### 2.4 Report feature
+- You may report events/posts with content that you think violates our community guidelines. We will process your report and remove those contents if we find it inappropriate.
+- Your posts/events may be reported by other users, so please follow be responsible to your posts/events in our platform. If we found inappropriate content, they will be removed without notice.
+  
+
 ## 3. User-Generated Content
 
 ### 3.1 Content Ownership
