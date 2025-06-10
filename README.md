@@ -102,4 +102,5 @@ We reserve the right to modify these Terms at any time. Any changes will be effe
 These Terms are governed by and construed in accordance with the laws of the United States, without regard to its conflict of law principles.
 
 ## 13. Contact Information
-If you have any questions or concerns about these Terms, please contact us at [support@offline-social.com].
+If you have any questions or concerns about these Terms, please contact us at [offlinehelp2025@gmail.com]
+].
