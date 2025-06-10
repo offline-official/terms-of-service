@@ -103,4 +103,3 @@ These Terms are governed by and construed in accordance with the laws of the Uni
 
 ## 13. Contact Information
 If you have any questions or concerns about these Terms, please contact us at [offlinehelp2025@gmail.com]
-].
